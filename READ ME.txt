@@ -1,2 +1,0 @@
-Projetos:
-Análise de Risco de Crédito - Executado para curso da Data Science Academy
